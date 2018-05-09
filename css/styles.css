@@ -1,0 +1,19 @@
+table tr .ctd{
+    padding: 8px 10px !important;
+}
+.table{
+    border-bottom:1px solid #ccc
+}
+.datepicker table tr td span {
+    padding:1px !important;
+}
+.datepicker table tr td span.active.active{
+    background-color:#1E88E5 !important;
+}
+
+.row {
+    margin: 20px;
+    width: 50%;
+    border: 3px solid rgb(236, 236, 236);
+    padding: 10px;
+}
